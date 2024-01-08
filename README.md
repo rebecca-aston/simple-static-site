@@ -1,3 +1,3 @@
-# simple-responsive-3D
+# simple-static-site
  
-NOTE: This is not an example of this week's homework prompt, just one of the simple code examples from this week.
+This is an example of a simple p5.js sketch hosted out of the main branch of this repo using [Github Pages](https://docs.github.com/en/pages).
